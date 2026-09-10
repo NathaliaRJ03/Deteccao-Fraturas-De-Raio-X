@@ -48,5 +48,3 @@ Aproximadamente **3.000 imagens de raio-X**, com regiões de interesse anotadas 
 ### 👩‍💻Autora: Nathália Duarte
 
 Projeto desenvolvido **individualmente**, desde a preparação dos dados até o treinamento e análise dos resultados.
-
-**Interesses:** Inteligência Artificial · Machine Learning · Visão Computacional · Desenvolvimento de Software
