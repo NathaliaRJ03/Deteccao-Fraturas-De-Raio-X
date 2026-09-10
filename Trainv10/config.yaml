@@ -1,0 +1,9 @@
+#CAMINHOS:
+path: /content/drive/MyDrive/Trainv10/dataset/license_fraturaOssea
+train: images/train
+val: images/val
+
+
+#CLASSES:
+names: 
+   0: fratura
